@@ -1,0 +1,12 @@
+.detalles {
+    border-radius: 10px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px
+}

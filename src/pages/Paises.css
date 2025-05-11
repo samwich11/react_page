@@ -1,0 +1,15 @@
+#paises table i{
+    display: none;
+    cursor: pointer;
+}
+#paises table i:hover{
+    color: var(--color5)
+}
+/*
+.mostrarIconos i{
+    display: inline;
+}
+*/
+#paises table tr:hover i {
+    display: inline;
+}

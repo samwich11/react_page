@@ -1,0 +1,16 @@
+#proveedores table i{
+    display: none;
+    cursor: pointer;
+}
+#proveedores table i:hover{
+    transition: 0.5s;
+    color: var(--color5)
+}
+/*
+.mostrarIconos i{
+    display: inline;
+}
+*/
+#proveedores table tr:hover i {
+    display: inline;
+}

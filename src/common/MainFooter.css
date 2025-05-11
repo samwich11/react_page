@@ -1,0 +1,25 @@
+#main-footer{
+    background-color: var(--color-gris-oscuro);
+    color: var(--color-gris-claro);
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+.ir-arriba {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    font-size: 2rem;
+    color: var(--color3);
+    /* color: #196a83; */
+    cursor: pointer;
+    transition: color 0.3s ease; 
+}
+
+.ir-arriba:hover {
+    color: cornflowerblue;
+}
+
+.ir-arriba:active {
+    color: var(--color5);
+}

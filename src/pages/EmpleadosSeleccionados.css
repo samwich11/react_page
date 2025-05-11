@@ -1,0 +1,20 @@
+.icono-seleccionar-empleado{
+    cursor: pointer;
+    position: absolute; 
+    left: 220px; 
+    font-size: 1.3rem;
+
+}
+
+.icono-seleccionar-empleado:hover {
+    color: var(--color5);
+}
+
+.icono-seleccionar-empleado:active {
+    color: var(--color3);
+}
+
+.centrar-texto {
+    text-align: center;
+    vertical-align: middle;
+}
